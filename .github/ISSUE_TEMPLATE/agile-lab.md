@@ -1,13 +1,27 @@
 ---
-name: agile labs
-about: for practicals
+name: agile lab
+about: agile practical
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
