@@ -16,12 +16,9 @@ assignees: ''
 7
 8
 9
-10
-11
 12
 13
-14
- **As a** [role]  
+14 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
